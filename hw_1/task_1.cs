@@ -9,7 +9,7 @@ int a = int.Parse(s_a);
 int b = int.Parse(s_b);
 
 if (a > b) {
-    Console.WriteLine($"Большее {a}, меньшее {b}")
+    Console.WriteLine($"Большее {a}, меньшее {b}");
 }else{
-    Console.WriteLine($"Большее {b}, меньшее {a}")
+    Console.WriteLine($"Большее {b}, меньшее {a}");
 }
